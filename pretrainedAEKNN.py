@@ -21,8 +21,13 @@ from time import sleep
 from sklearn.model_selection import train_test_split
 import json
 import torch
-from getLabels import getLabels
+from getLabels import getLabels,filterOutSmallCategories
 from sklearn import metrics
+import time
+
+
+
+t0 = time.time()
 
 
 
@@ -58,14 +63,67 @@ extensions = [".jpg", ".jpeg"]
 # imgs_test = read_imgs_dir(dataTestDir, extensions, parallel=parallel)
 print("Reading images from outputLayoutImage'{}'...".format(allFilesDir))
 imgs_all_with_names = read_imgs_dir(allFilesDir, extensions, parallel=parallel)
+
+
+
+allImageName = [tup[1] for tup in imgs_all_with_names]
+
+allLabels = []
+problemImages = []
+#Kesina added
+labelMap = getLabels()
+
+def getLabelOfImage(labelMap,image):
+    imageName = image.split("/")[-1].split('.jpg')[0]+"-screen.jpg" # Need to change <path>/buzzfeed-signup-1-bbox-1808.jpg to buzzfeed-signup-1-bbox-1808-screen.jpg
+    imageName= imageName.replace('-long','')
+    if labelMap.get(imageName):
+        label = labelMap[imageName]
+        return label
+    else:
+        return False
+
+# problemIndex = 0
+# print(str(len(allImageName)),str(len(allLabels)),str(len(imgs_all_with_names)))
+for num, imageName in enumerate(allImageName):
+    filters = filterOutSmallCategories()
+    label = getLabelOfImage(labelMap,imageName)
+    if label and label not in filters:
+        allLabels.append(label)
+    else:
+        problemImages.append(num)
+
+
+
+
+
+
+
+
+
+def removeUnWantedEntries(allImageInfo):
+    tempHolder=[]
+    for index, info in enumerate(allImageInfo):
+        if index not in problemImages:
+            tempHolder.append(info)
+    return tempHolder
+
+tempCopy = imgs_all_with_names.copy()
+imgs_all_with_names = removeUnWantedEntries(tempCopy)
+
+print(str(len(allImageName)),"Started with these images")
+print(str(len(allLabels)),"Good labels")
+print(str(len(labelMap)),"Total labelMap")
+print(str(len(problemImages)),"images with bad labels")
+
+
+
 imgs_all = [tup[0] for tup in imgs_all_with_names]
 
 shape_img = imgs_all[0].shape
-print("Image shape = {}".format(shape_img))
+# print("Image shape = {}".format(shape_img))
 
-#Kesina change start
 imgs_train_all, imgs_test_all= train_test_split(
-             imgs_all_with_names, test_size = 0.2, random_state=42)
+             imgs_all_with_names, test_size = 0.2,stratify=allLabels)
 
 imgs_train_names = [tup[1] for tup in imgs_train_all]
 imgs_test_names = [tup[1] for tup in imgs_test_all]
@@ -212,7 +270,6 @@ imgs_names = [tup[1] for tup in imgs_all_with_names]
 
 
 
-labelMap = getLabels()
 
 def printLoading(percentage):
     message="Completed "+str(percentage)+"%"
@@ -222,15 +279,7 @@ def printLoading(percentage):
     sleep(0.0001)
 
 
-#Kesina added
-def getLabelOfImage(labelMap,image):
-    imageName = image.split("/")[-1].split('.jpg')[0]+"-screen.jpg" # Need to change <path>/buzzfeed-signup-1-bbox-1808.jpg to buzzfeed-signup-1-bbox-1808-screen.jpg
-    imageName= imageName.replace('-long','')
-    if labelMap.get(imageName):
-        label = labelMap[imageName]
-        return label
-    else:
-        return False
+
 
 
 
@@ -267,9 +316,26 @@ for i, emb_flatten in enumerate(E_test_flatten):
     # outFile = os.path.join(outDir, "{}_retrieval_{}.png".format(modelName, i))
     # plot_query_retrieval(img_query, imgs_retrieval, outFile)
 
+t1 = time.time()
+
+total = t1-t0
+print('Time taken to predict '+str(len(imgs_test))+' images '+str(total))
 
 #Kesina added
 print(metrics.accuracy_score(testLabels, predictedLabels))
+
+badResultCounter = {}
+for num,i in enumerate(testLabels):
+    # if num ==11:
+    #     break
+    if testLabels[num] != predictedLabels[num]:
+        if badResultCounter.get(testLabels[num]):
+            badResultCounter[testLabels[num]] =badResultCounter[testLabels[num]]+1
+        else:
+            badResultCounter[testLabels[num]]=1
+        print(testLabels[num],predictedLabels[num])
+
+print(badResultCounter)
 
 with open('predictionResult.json','w') as f:
     json.dump(resultHolder,f)
