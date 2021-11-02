@@ -29,7 +29,7 @@ import time
 from sklearn.model_selection import StratifiedKFold
 from sklearn.model_selection import cross_val_score
 
-
+'''K-fold without app wise data'''
 
 t0 = time.time()
 
@@ -80,8 +80,9 @@ problemIndex = 0
 labelMap = getLabels()
 
 def getLabelOfImage(labelMap,image):
-    imageName = image.split("/")[-1].split('.jpg')[0]+"-screen.jpg" # Need to change <path>/buzzfeed-signup-1-bbox-1808.jpg to buzzfeed-signup-1-bbox-1808-screen.jpg
-    imageName= imageName.replace('-long','')
+    imageName = image.split("/")[-1]#.split('.jpg')[0]+"-screen.jpg" # Need to change <path>/buzzfeed-signup-1-bbox-1808.jpg to buzzfeed-signup-1-bbox-1808-screen.jpg
+    #imageName= imageName.replace('-long','')
+    print(imageName,"changed")
     if labelMap.get(imageName):
         label = labelMap[imageName]
         return label
@@ -90,7 +91,9 @@ def getLabelOfImage(labelMap,image):
 
 for num, imageName in enumerate(allImageName):
     filters = filterOutSmallCategories()
+    # print(imageName)
     label = getLabelOfImage(labelMap,imageName)
+    # break
     if label and label not in filters:
         allLabels.append(label)
     else:
@@ -113,6 +116,10 @@ print(str(len(labelMap)),"Total labelMap")
 print(str(len(problemImages)),"images with bad labels")
 
 imgs_all = [tup[0] for tup in imgs_all_with_names]
+namesToPrint = [tup[1] for tup in imgs_all_with_names]
+with open('names.json', 'w') as f:
+    json.dump(namesToPrint, f)
+
 
 
 

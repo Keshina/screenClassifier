@@ -25,7 +25,7 @@ from getLabels import getLabels,filterOutSmallCategories
 from sklearn import metrics
 import time
 
-
+'''does the data split by label'''
 
 t0 = time.time()
 
