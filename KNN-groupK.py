@@ -127,6 +127,9 @@ print(str(len(problemImages)),"images with bad labels")
 
 
 imgs_all = [tup[0] for tup in imgs_all_with_names]
+namesToPrint = [tup[1] for tup in imgs_all_with_names]
+with open('names.json', 'w') as f:
+    json.dump(namesToPrint, f)
 
 shape_img = imgs_all[0].shape
 # print("Image shape = {}".format(shape_img))
