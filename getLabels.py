@@ -64,6 +64,9 @@ labelMapping = getLabels()
 
 def filterOutSmallCategories():
     filterList = []
+
+    filterList.append("account_guest")
+
     filterList.append("pwd_assistant")
     filterList.append("username")
     filterList.append("signin_google")
@@ -83,8 +86,10 @@ def filterOutSmallCategories():
     filterList.append("help")
     filterList.append("conact")
     filterList.append("alert")
+    filterList.append("bookmark")
     filterList.append("checkout")
-    filterList.append("confirm_remove")
+    filterList.append("confirm_remove")address_add
+    filterList.append("address_add")
     filterList.append("state_spinner")
     filterList.append("continue")
     filterList.append("to_search")
