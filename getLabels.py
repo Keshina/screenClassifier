@@ -88,7 +88,7 @@ def filterOutSmallCategories():
     filterList.append("alert")
     filterList.append("bookmark")
     filterList.append("checkout")
-    filterList.append("confirm_remove")address_add
+    filterList.append("confirm_remove")
     filterList.append("address_add")
     filterList.append("state_spinner")
     filterList.append("continue")
