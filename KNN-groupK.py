@@ -355,5 +355,5 @@ for train_index,test_index in gkf.split(imgs_all_with_names, allLabels, groups=a
 
     print(badResultCounter)
 
-    with open('predictionResult-'+appName+'.json','w') as f:
+    with open('predictionResult-'+appName+'-'+str(total)+'.json','w') as f:
         json.dump(resultHolder,f)
