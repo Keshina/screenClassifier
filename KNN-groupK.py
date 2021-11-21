@@ -323,7 +323,12 @@ for train_index,test_index in gkf.split(imgs_all_with_names, allLabels, groups=a
         topFiveMatchNames = [imgs_train_names[idx] for idx in indices.flatten()]
         labelOfQueryImage = getLabelOfImage(labelMap,queryImageName)
         closestMatchLabel  =  getLabelOfImage(labelMap,topFiveMatchNames[0])
-        resultHolder[queryImageName] = topFiveMatchNames
+        
+        top5predicts = []
+        for i in range(5):
+            top5predicts.append(getLabelOfImage(labelMap,topFiveMatchNames[i]))
+        
+        resultHolder[queryImageName] = {labelOfQueryImage: top5predicts}
 
         if labelOfQueryImage and closestMatchLabel:
             testLabels.append(labelOfQueryImage)
@@ -334,7 +339,9 @@ for train_index,test_index in gkf.split(imgs_all_with_names, allLabels, groups=a
     t1 = time.time()
 
     total = t1-t0
+    total = round(total, 2)
     print('Time taken to predict '+str(len(imgs_test))+' images '+str(total))
+
 
     #Kesina added
     score = metrics.accuracy_score(testLabels, predictedLabels)
@@ -343,6 +350,7 @@ for train_index,test_index in gkf.split(imgs_all_with_names, allLabels, groups=a
     # print(metrics.accuracy_score(testLabels, predictedLabels))
 
     badResultCounter = {}
+    temp = [] 
     for num,i in enumerate(testLabels):
         # if num ==11:
         #     break
@@ -355,5 +363,11 @@ for train_index,test_index in gkf.split(imgs_all_with_names, allLabels, groups=a
 
     print(badResultCounter)
 
+
+    temp = badResultCounter
+    resultHolder["badResultCounter"] = temp
+    temp = len(imgs_test)
+    resultHolder["num of imgs"] = temp
+
     with open('predictionResult-'+appName+'-'+str(total)+'.json','w') as f:
-        json.dump(resultHolder,f)
+        json.dump(resultHolder,f,indent=4)
