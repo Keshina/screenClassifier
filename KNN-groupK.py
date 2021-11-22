@@ -115,14 +115,21 @@ allAppNames = []
 
 allImageNameAfterFiltering = [tup[1] for tup in imgs_all_with_names]
 
+
 for names in allImageNameAfterFiltering:
     apps = names.split("/")[-1].split('-')[0]
-    allAppNames.append(apps)
+    allAppNames.append(apps.lower())
+    # print(names, apps)
 
 print(str(len(allImageName)),"Started with these images")
-print(str(len(allLabels)),"Good labels")
 print(str(len(labelMap)),"Total labelMap")
 print(str(len(problemImages)),"images with bad labels")
+print(str(len(allLabels)),"Good labels")
+print(str(len(allImageNameAfterFiltering)),"good image count")
+print(str(len(allAppNames)),"good app names count")
+
+# sys.exit()
+
 
 
 
@@ -135,11 +142,6 @@ shape_img = imgs_all[0].shape
 # print("Image shape = {}".format(shape_img))
 
 # imgs_train_all, imgs_test_all= train_test_split( imgs_all_with_names, test_size = 0.2,stratify=allLabels)
-
-
-#Kesina change end
-
-
 
 
 
@@ -222,7 +224,6 @@ torch.save(E_all_flatten, 'embeddings')
 print(" -> E_all.shape = {}".format(E_all.shape))
 
 gkf = GroupKFold(n_splits=18)
-# imgs_train_all, imgs_test_all=gkf.split(imgs_all_with_names, allLabels, groups=allAppNames)
 
 for train_index,test_index in gkf.split(imgs_all_with_names, allLabels, groups=allAppNames):
     # print("%s %s" % (imgs_train_all, imgs_test_all))
@@ -232,7 +233,6 @@ for train_index,test_index in gkf.split(imgs_all_with_names, allLabels, groups=a
     imgs_test_all = [imgs_all_with_names[i] for i in test_index]
 
     imgs_train_names = [tup[1] for tup in imgs_train_all]
-    # sys.exit()
     imgs_test_names = [tup[1] for tup in imgs_test_all]
     appName = imgs_test_names[0].split("/")[-1].split("-")[0]
     print(appName,"------------------------------------------------")
