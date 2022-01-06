@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingLeft="0dp"
+    android:paddingRight="0dp"
+    android:paddingTop="0dp"
+    android:paddingBottom="0dp"
+    tools:context=".MainActivity"
+android:background="#FFCAD0D4">
+
+
+    <RelativeLayout
+        android:background="#FF444444"
+        android:layout_marginLeft="818px"
+        android:layout_marginTop="1831px"
+        android:layout_width="52px"
+        android:layout_height="52px">
+
+        <ImageView
+            android:src="@drawable/img_831_1844_26_26"
+            android:layout_marginLeft="13px"
+            android:layout_marginTop="13px"
+            android:layout_width="26px"
+            android:layout_height="26px"/>
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:background="#FF343434"
+        android:layout_marginLeft="511px"
+        android:layout_marginTop="1828px"
+        android:layout_width="58px"
+        android:layout_height="58px">
+
+        <ImageView
+            android:src="@drawable/img_525_1842_30_30"
+            android:layout_marginLeft="14px"
+            android:layout_marginTop="14px"
+            android:layout_width="30px"
+            android:layout_height="30px"/>
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:background="#FF343434"
+        android:layout_marginLeft="211px"
+        android:layout_marginTop="1828px"
+        android:layout_width="51px"
+        android:layout_height="58px">
+
+        <ImageView
+            android:src="@drawable/img_233_1848_15_18"
+            android:layout_marginLeft="22px"
+            android:layout_marginTop="20px"
+            android:layout_width="15px"
+            android:layout_height="18px"/>
+    </RelativeLayout>
+
+    <ImageView
+        android:src="@drawable/img_0_1789_1080_9"
+        android:layout_marginLeft="0px"
+        android:layout_marginTop="1789px"
+        android:layout_width="1080px"
+        android:layout_height="9px"/>
+
+    <ImageView
+        android:src="@drawable/img_120_1571_137_45"
+        android:layout_marginLeft="120px"
+        android:layout_marginTop="1571px"
+        android:layout_width="137px"
+        android:layout_height="45px"/>
+
+    <ImageView
+        android:src="@drawable/img_128_1456_101_43"
+        android:layout_marginLeft="128px"
+        android:layout_marginTop="1456px"
+        android:layout_width="101px"
+        android:layout_height="43px"/>
+
+    <ImageView
+        android:src="@drawable/img_545_1446_211_53"
+        android:layout_marginLeft="545px"
+        android:layout_marginTop="1446px"
+        android:layout_width="211px"
+        android:layout_height="53px"/>
+
+    <ImageView
+        android:src="@drawable/img_32_1245_1017_137"
+        android:layout_marginLeft="32px"
+        android:layout_marginTop="1245px"
+        android:layout_width="1017px"
+        android:layout_height="137px"/>
+
+    <ImageView
+        android:src="@drawable/img_32_523_1018_687"
+        android:layout_marginLeft="32px"
+        android:layout_marginTop="523px"
+        android:layout_width="1018px"
+        android:layout_height="687px"/>
+
+    <RelativeLayout
+        android:background="#FFFAFAFA"
+        android:layout_marginLeft="32px"
+        android:layout_marginTop="365px"
+        android:layout_width="1018px"
+        android:layout_height="133px">
+
+        <ImageView
+            android:src="@drawable/img_43_376_995_111"
+            android:layout_marginLeft="11px"
+            android:layout_marginTop="11px"
+            android:layout_width="995px"
+            android:layout_height="111px"/>
+    </RelativeLayout>
+
+    <ImageView
+        android:src="@drawable/img_0_226_1080_12"
+        android:layout_marginLeft="0px"
+        android:layout_marginTop="226px"
+        android:layout_width="1080px"
+        android:layout_height="12px"/>
+
+    <ImageView
+        android:src="@drawable/img_379_85_326_123"
+        android:layout_marginLeft="379px"
+        android:layout_marginTop="85px"
+        android:layout_width="326px"
+        android:layout_height="123px"/>
+
+    <ImageView
+        android:src="@drawable/img_0_58_1080_9"
+        android:layout_marginLeft="0px"
+        android:layout_marginTop="58px"
+        android:layout_width="1080px"
+        android:layout_height="9px"/>
+
+    <RelativeLayout
+        android:background="#FF779FC2"
+        android:layout_marginLeft="818px"
+        android:layout_marginTop="9px"
+        android:layout_width="46px"
+        android:layout_height="46px">
+
+        <ImageView
+            android:src="@drawable/img_830_37_22_9"
+            android:layout_marginLeft="12px"
+            android:layout_marginTop="28px"
+            android:layout_width="22px"
+            android:layout_height="9px"/>
+
+        <ImageView
+            android:src="@drawable/img_830_18_22_9"
+            android:layout_marginLeft="12px"
+            android:layout_marginTop="9px"
+            android:layout_width="22px"
+            android:layout_height="9px"/>
+    </RelativeLayout>
+
+    <TextView
+        android:text="AAA"
+        android:textColor="#FFE4ECF3"
+        android:textSize="30px"        android:layout_marginLeft="28px"
+        android:layout_marginTop="13px"
+        android:layout_width="165px"
+        android:layout_height="35px"/>
+
+    <TextView
+        android:text=""4 3:58"
+        android:textColor="#FFD4E1EC"
+        android:textSize="33px"        android:layout_marginLeft="877px"
+        android:layout_marginTop="12px"
+        android:layout_width="180px"
+        android:layout_height="38px"/>
+
+    <TextView
+        android:text="Password assistance"
+        android:textColor="#FF000000"
+        android:textSize="42px"        android:layout_marginLeft="41px"
+        android:layout_marginTop="278px"
+        android:layout_width="594px"
+        android:layout_height="47px"/>
+
+    <TextView
+        android:text="Has your email address changed?"
+        android:textColor="#FF000000"
+        android:textSize="30px"        android:layout_marginLeft="40px"
+        android:layout_marginTop="1451px"
+        android:layout_width="711px"
+        android:layout_height="35px"/>
+
+    <TextView
+        android:text="If you no longer use the email address associated with"
+        android:textColor="#FF000000"
+        android:textSize="32px"        android:layout_marginLeft="40px"
+        android:layout_marginTop="1522px"
+        android:layout_width="944px"
+        android:layout_height="37px"/>
+
+    <TextView
+        android:text="your Zappos account, you can restore access to your"
+        android:textColor="#FF000000"
+        android:textSize="31px"        android:layout_marginLeft="37px"
+        android:layout_marginTop="1583px"
+        android:layout_width="921px"
+        android:layout_height="36px"/>
+
+    <TextView
+        android:text="account by contacting Customer Service."
+        android:textColor="#FF000000"
+        android:textSize="32px"        android:layout_marginLeft="39px"
+        android:layout_marginTop="1628px"
+        android:layout_width="712px"
+        android:layout_height="37px"/>
+</RelativeLayout>

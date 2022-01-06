@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title></title>
+  <meta http-equiv="Content-Type" content="text/html;charset=utf-8"/>
+  <meta name='ocr-system' content='tesseract 4.1.1' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word ocrp_wconf'/>
+ </head>
+ <body>
+  <div class='ocr_page' id='page_1' title='image "/Users/kesina/Downloads/Screen_AugmentedTrainingData/state_spinner/6pm-state_spinner-1.png"; bbox 0 0 1080 1920; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 802 13 1057 50">
+    <p class='ocr_par' id='par_1_1' lang='eng' title="bbox 802 12 1057 50">
+     <span class='ocr_caption' id='line_1_1' title="bbox 802 13 1057 50; baseline 0 -4; x_size 39.400002; x_descenders 5.4000001; x_ascenders 7">
+      <span class='ocrx_word' id='word_1_1' title='bbox 802 14 838 50; x_wconf 0'>@</span>
+      <span class='ocrx_word' id='word_1_2' title='bbox 856 13 900 49; x_wconf 40'>&quot;4</span>
+      <span class='ocrx_word' id='word_1_3' title='bbox 968 19 1057 46; x_wconf 96'>12:49</span>
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 92 267 141 297">
+    <p class='ocr_par' id='par_1_2' lang='eng' title="bbox 92 267 141 297">
+     <span class='ocr_line' id='line_1_2' title="bbox 92 267 141 297; baseline 0 0; x_size 40.666668; x_descenders 10.166667; x_ascenders 10.166667">
+      <span class='ocrx_word' id='word_1_4' title='bbox 92 267 141 297; x_wconf 96'>AE</span>
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 92 394 143 424">
+    <p class='ocr_par' id='par_1_3' lang='eng' title="bbox 92 394 143 424">
+     <span class='ocr_line' id='line_1_3' title="bbox 92 394 143 424; baseline 0 0; x_size 40.666668; x_descenders 10.166667; x_ascenders 10.166667">
+      <span class='ocrx_word' id='word_1_5' title='bbox 92 394 143 424; x_wconf 96'>AP</span>
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 92 519 256 552">
+    <p class='ocr_par' id='par_1_4' lang='eng' title="bbox 92 519 256 552">
+     <span class='ocr_line' id='line_1_4' title="bbox 92 519 256 552; baseline 0.006 -1; x_size 38.387756; x_descenders 5.3877549; x_ascenders 9">
+      <span class='ocrx_word' id='word_1_6' title='bbox 92 519 256 552; x_wconf 96'>Alabama</span>
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 92 646 215 679">
+    <p class='ocr_par' id='par_1_5' lang='eng' title="bbox 92 646 215 679">
+     <span class='ocr_line' id='line_1_5' title="bbox 92 646 215 679; baseline 0.008 -1; x_size 38.387756; x_descenders 5.3877549; x_ascenders 9">
+      <span class='ocrx_word' id='word_1_7' title='bbox 92 646 215 679; x_wconf 96'>Alaska</span>
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_6' title="bbox 92 775 408 806">
+    <p class='ocr_par' id='par_1_6' lang='eng' title="bbox 92 775 408 806">
+     <span class='ocr_line' id='line_1_6' title="bbox 92 775 408 806; baseline 0.003 -1; x_size 36.387756; x_descenders 5.3877549; x_ascenders 7">
+      <span class='ocrx_word' id='word_1_8' title='bbox 92 775 266 806; x_wconf 95'>American</span>
+      <span class='ocrx_word' id='word_1_9' title='bbox 280 775 408 806; x_wconf 96'>Samoa</span>
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_7' title="bbox 92 902 231 933">
+    <p class='ocr_par' id='par_1_7' lang='eng' title="bbox 92 902 231 933">
+     <span class='ocr_line' id='line_1_7' title="bbox 92 902 231 933; baseline 0.007 -1; x_size 35.38298; x_descenders 5.3829789; x_ascenders 7">
+      <span class='ocrx_word' id='word_1_10' title='bbox 92 902 231 933; x_wconf 96'>Arizona</span>
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_8' title="bbox 92 1027 264 1060">
+    <p class='ocr_par' id='par_1_8' lang='eng' title="bbox 92 1027 264 1060">
+     <span class='ocr_line' id='line_1_8' title="bbox 92 1027 264 1060; baseline 0.006 -1; x_size 37.387756; x_descenders 5.3877549; x_ascenders 8">
+      <span class='ocrx_word' id='word_1_11' title='bbox 92 1027 264 1060; x_wconf 96'>Arkansas</span>
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_9' title="bbox 93 1154 268 1187">
+    <p class='ocr_par' id='par_1_9' lang='eng' title="bbox 93 1154 268 1187">
+     <span class='ocr_line' id='line_1_9' title="bbox 93 1154 268 1187; baseline -0.006 0; x_size 37.38298; x_descenders 5.3829789; x_ascenders 9">
+      <span class='ocrx_word' id='word_1_12' title='bbox 93 1154 268 1187; x_wconf 96'>California</span>
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_10' title="bbox 93 1281 258 1314">
+    <p class='ocr_par' id='par_1_10' lang='eng' title="bbox 93 1281 258 1314">
+     <span class='ocr_line' id='line_1_10' title="bbox 93 1281 258 1314; baseline 0 0; x_size 38.387756; x_descenders 5.3877549; x_ascenders 9">
+      <span class='ocrx_word' id='word_1_13' title='bbox 93 1281 258 1314; x_wconf 96'>Colorado</span>
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_11' title="bbox 93 1410 313 1441">
+    <p class='ocr_par' id='par_1_11' lang='eng' title="bbox 93 1410 313 1441">
+     <span class='ocr_line' id='line_1_11' title="bbox 93 1410 313 1441; baseline 0 0; x_size 36.387756; x_descenders 5.3877549; x_ascenders 7">
+      <span class='ocrx_word' id='word_1_14' title='bbox 93 1410 313 1441; x_wconf 96'>Connecticut</span>
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_12' title="bbox 94 1535 264 1568">
+    <p class='ocr_par' id='par_1_12' lang='eng' title="bbox 94 1535 264 1568">
+     <span class='ocr_line' id='line_1_12' title="bbox 94 1535 264 1568; baseline 0.006 -1; x_size 37.387756; x_descenders 5.3877549; x_ascenders 8">
+      <span class='ocrx_word' id='word_1_15' title='bbox 94 1535 264 1568; x_wconf 95'>Delaware</span>
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_13' title="bbox 94 1662 460 1695">
+    <p class='ocr_par' id='par_1_13' lang='eng' title="bbox 94 1662 460 1695">
+     <span class='ocr_line' id='line_1_13' title="bbox 94 1662 460 1695; baseline 0.003 -1; x_size 38.387756; x_descenders 5.3877549; x_ascenders 9">
+      <span class='ocrx_word' id='word_1_16' title='bbox 94 1664 223 1695; x_wconf 96'>District</span>
+      <span class='ocrx_word' id='word_1_17' title='bbox 237 1662 274 1695; x_wconf 95'>of</span>
+      <span class='ocrx_word' id='word_1_18' title='bbox 286 1662 460 1695; x_wconf 96'>Columbia</span>
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_14' title="bbox 0 0 1080 1920">
+    <p class='ocr_par' id='par_1_14' lang='eng' title="bbox 0 0 1080 1920">
+     <span class='ocr_line' id='line_1_14' title="bbox 0 0 1080 1920; baseline 0 0; x_size 960; x_descenders -480; x_ascenders 480">
+      <span class='ocrx_word' id='word_1_19' title='bbox 0 0 1080 1920; x_wconf 95'> </span>
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

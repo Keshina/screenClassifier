@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingLeft="0dp"
+    android:paddingRight="0dp"
+    android:paddingTop="0dp"
+    android:paddingBottom="0dp"
+    tools:context=".MainActivity"
+android:background="#FFFDFDFD">
+
+
+    <ImageView
+        android:src="@drawable/img_0_229_1080_9"
+        android:layout_marginLeft="0px"
+        android:layout_marginTop="229px"
+        android:layout_width="1080px"
+        android:layout_height="9px"/>
+
+    <ImageView
+        android:src="@drawable/img_0_131_1080_12"
+        android:layout_marginLeft="0px"
+        android:layout_marginTop="131px"
+        android:layout_width="1080px"
+        android:layout_height="12px"/>
+
+    <RelativeLayout
+        android:background="#FFEBEBEB"
+        android:layout_marginLeft="19px"
+        android:layout_marginTop="49px"
+        android:layout_width="70px"
+        android:layout_height="70px">
+
+        <ImageView
+            android:src="@drawable/img_58_66_20_36"
+            android:layout_marginLeft="39px"
+            android:layout_marginTop="17px"
+            android:layout_width="20px"
+            android:layout_height="36px"/>
+
+        <ImageView
+            android:src="@drawable/img_30_60_34_48"
+            android:layout_marginLeft="11px"
+            android:layout_marginTop="11px"
+            android:layout_width="34px"
+            android:layout_height="48px"/>
+    </RelativeLayout>
+
+    <ImageView
+        android:src="@drawable/img_12_1_34_34"
+        android:layout_marginLeft="12px"
+        android:layout_marginTop="1px"
+        android:layout_width="34px"
+        android:layout_height="34px"/>
+
+    <TextView
+        android:text="6:10"
+        android:textColor="#ffffff"
+        android:textSize="10px"        android:layout_marginLeft="1027px"
+        android:layout_marginTop="11px"
+        android:layout_width="40px"
+        android:layout_height="15px"/>
+
+    <TextView
+        android:text="Help"
+        android:textColor="#FF000000"
+        android:textSize="32px"        android:layout_marginLeft="974px"
+        android:layout_marginTop="72px"
+        android:layout_width="82px"
+        android:layout_height="37px"/>
+
+    <TextView
+        android:text="Frequently asked questions"
+        android:textColor="#FF000000"
+        android:textSize="18px"        android:layout_marginLeft="25px"
+        android:layout_marginTop="177px"
+        android:layout_width="291px"
+        android:layout_height="23px"/>
+
+    <TextView
+        android:text="Contact us"
+        android:textColor="#FF000000"
+        android:textSize="16px"        android:layout_marginLeft="24px"
+        android:layout_marginTop="281px"
+        android:layout_width="127px"
+        android:layout_height="21px"/>
+
+    <TextView
+        android:text="Report an issue"
+        android:textColor="#FF000000"
+        android:textSize="17px"        android:layout_marginLeft="25px"
+        android:layout_marginTop="372px"
+        android:layout_width="162px"
+        android:layout_height="22px"/>
+
+    <TextView
+        android:text="Subscriptions, payment and billing issues"
+        android:textColor="#FF000000"
+        android:textSize="18px"        android:layout_marginLeft="24px"
+        android:layout_marginTop="468px"
+        android:layout_width="441px"
+        android:layout_height="23px"/>
+
+    <TextView
+        android:text="Membership payment, billing or help issues"
+        android:textColor="#FF000000"
+        android:textSize="18px"        android:layout_marginLeft="25px"
+        android:layout_marginTop="564px"
+        android:layout_width="467px"
+        android:layout_height="23px"/>
+
+    <TextView
+        android:text="Comment or query about an article"
+        android:textColor="#FF000000"
+        android:textSize="13px"        android:layout_marginLeft="24px"
+        android:layout_marginTop="659px"
+        android:layout_width="371px"
+        android:layout_height="18px"/>
+
+    <TextView
+        android:text="Query about moderation of comments"
+        android:textColor="#FF000000"
+        android:textSize="17px"        android:layout_marginLeft="24px"
+        android:layout_marginTop="756px"
+        android:layout_width="408px"
+        android:layout_height="22px"/>
+
+    <TextView
+        android:text="Send feedback"
+        android:textColor="#FF000000"
+        android:textSize="13px"        android:layout_marginLeft="24px"
+        android:layout_marginTop="850px"
+        android:layout_width="157px"
+        android:layout_height="18px"/>
+</RelativeLayout>

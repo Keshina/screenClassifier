@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingLeft="0dp"
+    android:paddingRight="0dp"
+    android:paddingTop="0dp"
+    android:paddingBottom="0dp"
+    tools:context=".MainActivity"
+android:background="#FF969798">
+
+
+    <ImageView
+        android:src="@drawable/img_465_1900_150_12"
+        android:layout_marginLeft="465px"
+        android:layout_marginTop="1900px"
+        android:layout_width="150px"
+        android:layout_height="12px"/>
+
+    <ImageView
+        android:src="@drawable/img_55_51_970_1842"
+        android:layout_marginLeft="55px"
+        android:layout_marginTop="51px"
+        android:layout_width="970px"
+        android:layout_height="1842px"/>
+
+    <ImageView
+        android:src="@drawable/img_89_15_60_26"
+        android:layout_marginLeft="89px"
+        android:layout_marginTop="15px"
+        android:layout_width="60px"
+        android:layout_height="26px"/>
+
+    <ImageView
+        android:src="@drawable/img_795_13_37_29"
+        android:layout_marginLeft="795px"
+        android:layout_marginTop="13px"
+        android:layout_width="37px"
+        android:layout_height="29px"/>
+
+    <RelativeLayout
+        android:background="#FF737373"
+        android:layout_marginLeft="166px"
+        android:layout_marginTop="12px"
+        android:layout_width="31px"
+        android:layout_height="31px">
+
+        <ImageView
+            android:src="@drawable/img_174_20_15_7"
+            android:layout_marginLeft="8px"
+            android:layout_marginTop="8px"
+            android:layout_width="15px"
+            android:layout_height="7px"/>
+    </RelativeLayout>
+
+    <ImageView
+        android:src="@drawable/img_752_11_33_34"
+        android:layout_marginLeft="752px"
+        android:layout_marginTop="11px"
+        android:layout_width="33px"
+        android:layout_height="34px"/>
+
+    <ImageView
+        android:src="@drawable/img_913_10_79_36"
+        android:layout_marginLeft="913px"
+        android:layout_marginTop="10px"
+        android:layout_width="79px"
+        android:layout_height="36px"/>
+
+    <ImageView
+        android:src="@drawable/img_838_9_70_36"
+        android:layout_marginLeft="838px"
+        android:layout_marginTop="9px"
+        android:layout_width="70px"
+        android:layout_height="36px"/>
+</RelativeLayout>

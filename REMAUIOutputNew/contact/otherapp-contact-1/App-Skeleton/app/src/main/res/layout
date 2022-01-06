@@ -1,0 +1,528 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingLeft="0dp"
+    android:paddingRight="0dp"
+    android:paddingTop="0dp"
+    android:paddingBottom="0dp"
+    tools:context=".MainActivity"
+android:background="#FFF7F7F6">
+
+
+    <ImageView
+        android:src="@drawable/img_849_1906_88_14"
+        android:layout_marginLeft="849px"
+        android:layout_marginTop="1906px"
+        android:layout_width="88px"
+        android:layout_height="14px"/>
+
+    <ImageView
+        android:src="@drawable/img_815_1906_32_14"
+        android:layout_marginLeft="815px"
+        android:layout_marginTop="1906px"
+        android:layout_width="32px"
+        android:layout_height="14px"/>
+
+    <ImageView
+        android:src="@drawable/img_141_1906_669_14"
+        android:layout_marginLeft="141px"
+        android:layout_marginTop="1906px"
+        android:layout_width="669px"
+        android:layout_height="14px"/>
+
+    <ImageView
+        android:src="@drawable/img_412_1441_84_35"
+        android:layout_marginLeft="412px"
+        android:layout_marginTop="1441px"
+        android:layout_width="84px"
+        android:layout_height="35px"/>
+
+    <ImageView
+        android:src="@drawable/img_281_1440_128_42"
+        android:layout_marginLeft="281px"
+        android:layout_marginTop="1440px"
+        android:layout_width="128px"
+        android:layout_height="42px"/>
+
+    <ImageView
+        android:src="@drawable/img_142_1440_108_42"
+        android:layout_marginLeft="142px"
+        android:layout_marginTop="1440px"
+        android:layout_width="108px"
+        android:layout_height="42px"/>
+
+    <ImageView
+        android:src="@drawable/img_403_1384_149_36"
+        android:layout_marginLeft="403px"
+        android:layout_marginTop="1384px"
+        android:layout_width="149px"
+        android:layout_height="36px"/>
+
+    <ImageView
+        android:src="@drawable/img_307_1384_92_36"
+        android:layout_marginLeft="307px"
+        android:layout_marginTop="1384px"
+        android:layout_width="92px"
+        android:layout_height="36px"/>
+
+    <ImageView
+        android:src="@drawable/img_141_1384_122_42"
+        android:layout_marginLeft="141px"
+        android:layout_marginTop="1384px"
+        android:layout_width="122px"
+        android:layout_height="42px"/>
+
+    <ImageView
+        android:src="@drawable/img_255_1042_113_47"
+        android:layout_marginLeft="255px"
+        android:layout_marginTop="1042px"
+        android:layout_width="113px"
+        android:layout_height="47px"/>
+
+    <ImageView
+        android:src="@drawable/img_586_867_151_36"
+        android:layout_marginLeft="586px"
+        android:layout_marginTop="867px"
+        android:layout_width="151px"
+        android:layout_height="36px"/>
+
+    <ImageView
+        android:src="@drawable/img_487_867_95_36"
+        android:layout_marginLeft="487px"
+        android:layout_marginTop="867px"
+        android:layout_width="95px"
+        android:layout_height="36px"/>
+
+    <ImageView
+        android:src="@drawable/img_280_867_164_36"
+        android:layout_marginLeft="280px"
+        android:layout_marginTop="867px"
+        android:layout_width="164px"
+        android:layout_height="36px"/>
+
+    <ImageView
+        android:src="@drawable/img_142_867_108_42"
+        android:layout_marginLeft="142px"
+        android:layout_marginTop="867px"
+        android:layout_width="108px"
+        android:layout_height="42px"/>
+
+    <ImageView
+        android:src="@drawable/img_537_812_53_41"
+        android:layout_marginLeft="537px"
+        android:layout_marginTop="812px"
+        android:layout_width="53px"
+        android:layout_height="41px"/>
+
+    <ImageView
+        android:src="@drawable/img_447_812_89_36"
+        android:layout_marginLeft="447px"
+        android:layout_marginTop="812px"
+        android:layout_width="89px"
+        android:layout_height="36px"/>
+
+    <RelativeLayout
+        android:background="#FFE0E0E0"
+        android:layout_marginLeft="255px"
+        android:layout_marginTop="812px"
+        android:layout_width="187px"
+        android:layout_height="36px">
+
+        <ImageView
+            android:src="@drawable/img_267_825_11_10"
+            android:layout_marginLeft="12px"
+            android:layout_marginTop="13px"
+            android:layout_width="11px"
+            android:layout_height="10px"/>
+    </RelativeLayout>
+
+    <ImageView
+        android:src="@drawable/img_141_812_84_36"
+        android:layout_marginLeft="141px"
+        android:layout_marginTop="812px"
+        android:layout_width="84px"
+        android:layout_height="36px"/>
+
+    <ImageView
+        android:src="@drawable/img_72_315_34_36"
+        android:layout_marginLeft="72px"
+        android:layout_marginTop="315px"
+        android:layout_width="34px"
+        android:layout_height="36px"/>
+
+    <ImageView
+        android:src="@drawable/img_385_250_241_24"
+        android:layout_marginLeft="385px"
+        android:layout_marginTop="250px"
+        android:layout_width="241px"
+        android:layout_height="24px"/>
+
+    <ImageView
+        android:src="@drawable/img_120_250_241_24"
+        android:layout_marginLeft="120px"
+        android:layout_marginTop="250px"
+        android:layout_width="241px"
+        android:layout_height="24px"/>
+
+    <ImageView
+        android:src="@drawable/img_812_157_226_32"
+        android:layout_marginLeft="812px"
+        android:layout_marginTop="157px"
+        android:layout_width="226px"
+        android:layout_height="32px"/>
+
+    <ImageView
+        android:src="@drawable/img_41_156_31_36"
+        android:layout_marginLeft="41px"
+        android:layout_marginTop="156px"
+        android:layout_width="31px"
+        android:layout_height="36px"/>
+
+    <ImageView
+        android:src="@drawable/img_0_127_1080_12"
+        android:layout_marginLeft="0px"
+        android:layout_marginTop="127px"
+        android:layout_width="1080px"
+        android:layout_height="12px"/>
+
+    <ImageView
+        android:src="@drawable/img_1039_68_14_32"
+        android:layout_marginLeft="1039px"
+        android:layout_marginTop="68px"
+        android:layout_width="14px"
+        android:layout_height="32px"/>
+
+    <ImageView
+        android:src="@drawable/img_89_68_25_30"
+        android:layout_marginLeft="89px"
+        android:layout_marginTop="68px"
+        android:layout_width="25px"
+        android:layout_height="30px"/>
+
+    <ImageView
+        android:src="@drawable/img_129_59_200_31"
+        android:layout_marginLeft="129px"
+        android:layout_marginTop="59px"
+        android:layout_width="200px"
+        android:layout_height="31px"/>
+
+    <ImageView
+        android:src="@drawable/img_12_5_34_26"
+        android:layout_marginLeft="12px"
+        android:layout_marginTop="5px"
+        android:layout_width="34px"
+        android:layout_height="26px"/>
+
+    <ImageView
+        android:src="@drawable/img_54_4_30_28"
+        android:layout_marginLeft="54px"
+        android:layout_marginTop="4px"
+        android:layout_width="30px"
+        android:layout_height="28px"/>
+
+    <ImageView
+        android:src="@drawable/img_92_1_34_34"
+        android:layout_marginLeft="92px"
+        android:layout_marginTop="1px"
+        android:layout_width="34px"
+        android:layout_height="34px"/>
+
+    <TextView
+        android:text="6:37"
+        android:textColor="#FF8C8C8C"
+        android:textSize="10px"        android:layout_marginLeft="1027px"
+        android:layout_marginTop="11px"
+        android:layout_width="40px"
+        android:layout_height="15px"/>
+
+    <TextView
+        android:text="x"
+        android:textColor="#FF828486"
+        android:textSize="15px"        android:layout_marginLeft="26px"
+        android:layout_marginTop="74px"
+        android:layout_width="20px"
+        android:layout_height="20px"/>
+
+    <TextView
+        android:text="help.nytimes.com"
+        android:textColor="#FF000000"
+        android:textSize="13px"        android:layout_marginLeft="133px"
+        android:layout_marginTop="93px"
+        android:layout_width="141px"
+        android:layout_height="18px"/>
+
+    <TextView
+        android:text="HOME"
+        android:textColor="#FFE3E3E3"
+        android:textSize="13px"        android:layout_marginLeft="90px"
+        android:layout_marginTop="162px"
+        android:layout_width="65px"
+        android:layout_height="18px"/>
+
+    <TextView
+        android:text="Help >"
+        android:textColor="#FF000000"
+        android:textSize="12px"        android:layout_marginLeft="55px"
+        android:layout_marginTop="259px"
+        android:layout_width="57px"
+        android:layout_height="17px"/>
+
+    <TextView
+        android:text=">"
+        android:textColor="#FFA2A2A1"
+        android:textSize="5px"        android:layout_marginLeft="369px"
+        android:layout_marginTop="259px"
+        android:layout_width="8px"
+        android:layout_height="10px"/>
+
+    <TextView
+        android:text="Search"
+        android:textColor="#ffffff"
+        android:textSize="10px"        android:layout_marginLeft="117px"
+        android:layout_marginTop="324px"
+        android:layout_width="60px"
+        android:layout_height="15px"/>
+
+    <TextView
+        android:text="Contact us"
+        android:textColor="#FF000000"
+        android:textSize="39px"        android:layout_marginLeft="56px"
+        android:layout_marginTop="448px"
+        android:layout_width="244px"
+        android:layout_height="44px"/>
+
+    <TextView
+        android:text="Contact Our Newsroom"
+        android:textColor="#FF000000"
+        android:textSize="26px"        android:layout_marginLeft="146px"
+        android:layout_marginTop="662px"
+        android:layout_width="435px"
+        android:layout_height="31px"/>
+
+    <TextView
+        android:text="Select a topic below for information on how to contact our Newsroom."
+        android:textColor="#FF000000"
+        android:textSize="17px"        android:layout_marginLeft="145px"
+        android:layout_marginTop="751px"
+        android:layout_width="704px"
+        android:layout_height="22px"/>
+
+    <TextView
+        android:text="Send a Confidential News Tip"
+        android:textColor="#FF000000"
+        android:textSize="27px"        android:layout_marginLeft="146px"
+        android:layout_marginTop="824px"
+        android:layout_width="439px"
+        android:layout_height="32px"/>
+
+    <TextView
+        android:text="v"
+        android:textColor="#FFFFFFFF"
+        android:textSize="6px"        android:layout_marginLeft="898px"
+        android:layout_marginTop="826px"
+        android:layout_width="22px"
+        android:layout_height="11px"/>
+
+    <TextView
+        android:text="Report a Correction or Share Feedback"
+        android:textColor="#FF000000"
+        android:textSize="27px"        android:layout_marginLeft="147px"
+        android:layout_marginTop="879px"
+        android:layout_width="586px"
+        android:layout_height="32px"/>
+
+    <TextView
+        android:text="v"
+        android:textColor="#FFFFFFFF"
+        android:textSize="6px"        android:layout_marginLeft="898px"
+        android:layout_marginTop="882px"
+        android:layout_width="22px"
+        android:layout_height="11px"/>
+
+    <TextView
+        android:text="Submit to Our Editorial Pages"
+        android:textColor="#FF000000"
+        android:textSize="27px"        android:layout_marginLeft="146px"
+        android:layout_marginTop="929px"
+        android:layout_width="439px"
+        android:layout_height="32px"/>
+
+    <TextView
+        android:text="v"
+        android:textColor="#FFFFFFFF"
+        android:textSize="6px"        android:layout_marginLeft="898px"
+        android:layout_marginTop="937px"
+        android:layout_width="22px"
+        android:layout_height="11px"/>
+
+    <TextView
+        android:text="Need Help?"
+        android:textColor="#FF000000"
+        android:textSize="26px"        android:layout_marginLeft="148px"
+        android:layout_marginTop="1047px"
+        android:layout_width="216px"
+        android:layout_height="31px"/>
+
+    <TextView
+        android:text="If you need help with your subscription or account, select a topic below for"
+        android:textColor="#FF000000"
+        android:textSize="17px"        android:layout_marginLeft="146px"
+        android:layout_marginTop="1136px"
+        android:layout_width="746px"
+        android:layout_height="22px"/>
+
+    <TextView
+        android:text="assistance. Or, visit our Help Center to learn more about The New York Times."
+        android:textColor="#FF000000"
+        android:textSize="17px"        android:layout_marginLeft="145px"
+        android:layout_marginTop="1172px"
+        android:layout_width="776px"
+        android:layout_height="22px"/>
+
+    <TextView
+        android:text="Customer Care is available from 7 a.m. to 10 p.m. E.T. Monday through Friday"
+        android:textColor="#FF000000"
+        android:textSize="17px"        android:layout_marginLeft="145px"
+        android:layout_marginTop="1232px"
+        android:layout_width="785px"
+        android:layout_height="22px"/>
+
+    <TextView
+        android:text="and from 7 a.m. to 3 p.m. E.T. on weekends and U.S. holidays."
+        android:textColor="#FF000000"
+        android:textSize="13px"        android:layout_marginLeft="145px"
+        android:layout_marginTop="1268px"
+        android:layout_width="626px"
+        android:layout_height="18px"/>
+
+    <TextView
+        android:text="Change Your Delivery Address"
+        android:textColor="#FF000000"
+        android:textSize="27px"        android:layout_marginLeft="146px"
+        android:layout_marginTop="1334px"
+        android:layout_width="449px"
+        android:layout_height="32px"/>
+
+    <TextView
+        android:text="v"
+        android:textColor="#FFFFFFFF"
+        android:textSize="6px"        android:layout_marginLeft="898px"
+        android:layout_marginTop="1343px"
+        android:layout_width="22px"
+        android:layout_height="11px"/>
+
+    <TextView
+        android:text="Change or Reset Password"
+        android:textColor="#FF000000"
+        android:textSize="27px"        android:layout_marginLeft="146px"
+        android:layout_marginTop="1396px"
+        android:layout_width="401px"
+        android:layout_height="32px"/>
+
+    <TextView
+        android:text="v"
+        android:textColor="#FFFFFFFF"
+        android:textSize="6px"        android:layout_marginLeft="898px"
+        android:layout_marginTop="1399px"
+        android:layout_width="22px"
+        android:layout_height="11px"/>
+
+    <TextView
+        android:text="Report a Delivery Issue"
+        android:textColor="#FF000000"
+        android:textSize="27px"        android:layout_marginLeft="147px"
+        android:layout_marginTop="1452px"
+        android:layout_width="344px"
+        android:layout_height="32px"/>
+
+    <TextView
+        android:text="v"
+        android:textColor="#FFFFFFFF"
+        android:textSize="6px"        android:layout_marginLeft="898px"
+        android:layout_marginTop="1454px"
+        android:layout_width="22px"
+        android:layout_height="11px"/>
+
+    <TextView
+        android:text="Update Your Payment Information"
+        android:textColor="#FF000000"
+        android:textSize="27px"        android:layout_marginLeft="147px"
+        android:layout_marginTop="1500px"
+        android:layout_width="505px"
+        android:layout_height="32px"/>
+
+    <TextView
+        android:text="v"
+        android:textColor="#FFFFFFFF"
+        android:textSize="6px"        android:layout_marginLeft="898px"
+        android:layout_marginTop="1510px"
+        android:layout_width="22px"
+        android:layout_height="11px"/>
+
+    <TextView
+        android:text="Log in to Your Account"
+        android:textColor="#FF000000"
+        android:textSize="27px"        android:layout_marginLeft="147px"
+        android:layout_marginTop="1557px"
+        android:layout_width="333px"
+        android:layout_height="32px"/>
+
+    <TextView
+        android:text="v"
+        android:textColor="#FFFFFFFF"
+        android:textSize="6px"        android:layout_marginLeft="898px"
+        android:layout_marginTop="1565px"
+        android:layout_width="22px"
+        android:layout_height="11px"/>
+
+    <TextView
+        android:text="Cancel Your Subscription"
+        android:textColor="#FF000000"
+        android:textSize="27px"        android:layout_marginLeft="146px"
+        android:layout_marginTop="1611px"
+        android:layout_width="374px"
+        android:layout_height="32px"/>
+
+    <TextView
+        android:text="v"
+        android:textColor="#FFFFFFFF"
+        android:textSize="6px"        android:layout_marginLeft="898px"
+        android:layout_marginTop="1621px"
+        android:layout_width="22px"
+        android:layout_height="11px"/>
+
+    <TextView
+        android:text="Contact Us About Something Else"
+        android:textColor="#FF000000"
+        android:textSize="27px"        android:layout_marginLeft="146px"
+        android:layout_marginTop="1667px"
+        android:layout_width="505px"
+        android:layout_height="32px"/>
+
+    <TextView
+        android:text="v"
+        android:textColor="#FFFFFFFF"
+        android:textSize="6px"        android:layout_marginLeft="898px"
+        android:layout_marginTop="1676px"
+        android:layout_width="22px"
+        android:layout_height="11px"/>
+
+    <TextView
+        android:text="Additional Contact Information"
+        android:textColor="#FF000000"
+        android:textSize="26px"        android:layout_marginLeft="144px"
+        android:layout_marginTop="1786px"
+        android:layout_width="570px"
+        android:layout_height="31px"/>
+
+    <TextView
+        android:text="If you need help with licensing permissions or international, corporate, or"
+        android:textColor="#FF000000"
+        android:textSize="17px"        android:layout_marginLeft="146px"
+        android:layout_marginTop="1880px"
+        android:layout_width="734px"
+        android:layout_height="22px"/>
+</RelativeLayout>

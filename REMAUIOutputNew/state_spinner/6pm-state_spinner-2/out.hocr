@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title></title>
+  <meta http-equiv="Content-Type" content="text/html;charset=utf-8"/>
+  <meta name='ocr-system' content='tesseract 4.1.1' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word ocrp_wconf'/>
+ </head>
+ <body>
+  <div class='ocr_page' id='page_1' title='image "/Users/kesina/Downloads/Screen_AugmentedTrainingData/state_spinner/6pm-state_spinner-2.png"; bbox 0 0 1080 1920; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 802 13 1057 50">
+    <p class='ocr_par' id='par_1_1' lang='eng' title="bbox 802 12 1057 50">
+     <span class='ocr_line' id='line_1_1' title="bbox 802 13 1057 50; baseline 0 -4; x_size 39.400002; x_descenders 5.4000001; x_ascenders 7">
+      <span class='ocrx_word' id='word_1_1' title='bbox 802 14 838 50; x_wconf 0'>@</span>
+      <span class='ocrx_word' id='word_1_2' title='bbox 856 13 900 49; x_wconf 40'>&quot;4</span>
+      <span class='ocrx_word' id='word_1_3' title='bbox 968 19 1057 46; x_wconf 96'>12:49</span>
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 94 127 330 160">
+    <p class='ocr_par' id='par_1_2' lang='eng' title="bbox 94 127 330 160">
+     <span class='ocr_line' id='line_1_2' title="bbox 94 127 330 160; baseline 0.004 -1; x_size 38.387756; x_descenders 5.3877549; x_ascenders 9">
+      <span class='ocrx_word' id='word_1_4' title='bbox 94 127 209 160; x_wconf 96'>Rhode</span>
+      <span class='ocrx_word' id='word_1_5' title='bbox 224 127 330 160; x_wconf 95'>Island</span>
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 93 254 361 287">
+    <p class='ocr_par' id='par_1_3' lang='eng' title="bbox 93 254 361 287">
+     <span class='ocr_line' id='line_1_3' title="bbox 93 254 361 287; baseline -0.004 0; x_size 38.387756; x_descenders 5.3877549; x_ascenders 9">
+      <span class='ocrx_word' id='word_1_6' title='bbox 93 254 198 287; x_wconf 96'>South</span>
+      <span class='ocrx_word' id='word_1_7' title='bbox 212 254 361 287; x_wconf 96'>Carolina</span>
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 93 381 341 414">
+    <p class='ocr_par' id='par_1_4' lang='eng' title="bbox 93 381 341 414">
+     <span class='ocr_line' id='line_1_4' title="bbox 93 381 341 414; baseline 0 0; x_size 38.387756; x_descenders 5.3877549; x_ascenders 9">
+      <span class='ocrx_word' id='word_1_8' title='bbox 93 381 198 414; x_wconf 96'>South</span>
+      <span class='ocrx_word' id='word_1_9' title='bbox 213 381 341 414; x_wconf 96'>Dakota</span>
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 92 510 291 541">
+    <p class='ocr_par' id='par_1_5' lang='eng' title="bbox 92 510 291 541">
+     <span class='ocr_line' id='line_1_5' title="bbox 92 510 291 541; baseline 0.005 -1; x_size 32.555557; x_descenders 8.1388893; x_ascenders 8.1388893">
+      <span class='ocrx_word' id='word_1_10' title='bbox 92 510 291 541; x_wconf 96'>Tennessee</span>
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_6' title="bbox 92 637 200 668">
+    <p class='ocr_par' id='par_1_6' lang='eng' title="bbox 92 637 200 668">
+     <span class='ocr_line' id='line_1_6' title="bbox 92 637 200 668; baseline 0.009 -1; x_size 35.38298; x_descenders 5.3829789; x_ascenders 7">
+      <span class='ocrx_word' id='word_1_11' title='bbox 92 637 200 668; x_wconf 96'>Texas</span>
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_7' title="bbox 94 762 176 795">
+    <p class='ocr_par' id='par_1_7' lang='eng' title="bbox 94 762 176 795">
+     <span class='ocr_line' id='line_1_7' title="bbox 94 762 176 795; baseline -0.012 0; x_size 37.759998; x_descenders 5.7599998; x_ascenders 8">
+      <span class='ocrx_word' id='word_1_12' title='bbox 94 762 176 795; x_wconf 96'>Utah</span>
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_8' title="bbox 92 891 249 922">
+    <p class='ocr_par' id='par_1_8' lang='eng' title="bbox 92 891 249 922">
+     <span class='ocr_line' id='line_1_8' title="bbox 92 891 249 922; baseline 0.006 -1; x_size 35.38298; x_descenders 5.3829789; x_ascenders 7">
+      <span class='ocrx_word' id='word_1_13' title='bbox 92 891 249 922; x_wconf 96'>Vermont</span>
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_9' title="bbox 92 1016 342 1057">
+    <p class='ocr_par' id='par_1_9' lang='eng' title="bbox 92 1016 342 1057">
+     <span class='ocr_line' id='line_1_9' title="bbox 92 1016 342 1057; baseline 0.004 -9; x_size 42; x_descenders 9; x_ascenders 9">
+      <span class='ocrx_word' id='word_1_14' title='bbox 92 1018 197 1057; x_wconf 96'>Virgin</span>
+      <span class='ocrx_word' id='word_1_15' title='bbox 213 1016 342 1049; x_wconf 95'>Islands</span>
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_10' title="bbox 92 1145 230 1184">
+    <p class='ocr_par' id='par_1_10' lang='eng' title="bbox 92 1145 230 1184">
+     <span class='ocr_line' id='line_1_10' title="bbox 92 1145 230 1184; baseline 0 -9; x_size 39; x_descenders 9; x_ascenders 7">
+      <span class='ocrx_word' id='word_1_16' title='bbox 92 1145 230 1184; x_wconf 96'>Virginia</span>
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_11' title="bbox 92 1270 310 1311">
+    <p class='ocr_par' id='par_1_11' lang='eng' title="bbox 92 1270 310 1311">
+     <span class='ocr_caption' id='line_1_11' title="bbox 92 1270 310 1311; baseline 0 -9; x_size 41; x_descenders 9; x_ascenders 9">
+      <span class='ocrx_word' id='word_1_17' title='bbox 92 1270 310 1311; x_wconf 96'>Washington</span>
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_12' title="bbox 92 1399 334 1438">
+    <p class='ocr_par' id='par_1_12' lang='eng' title="bbox 92 1399 334 1438">
+     <span class='ocr_line' id='line_1_12' title="bbox 92 1399 334 1438; baseline -0.004 -8; x_size 39; x_descenders 8; x_ascenders 8">
+      <span class='ocrx_word' id='word_1_18' title='bbox 92 1399 183 1430; x_wconf 96'>West</span>
+      <span class='ocrx_word' id='word_1_19' title='bbox 196 1399 334 1438; x_wconf 96'>Virginia</span>
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_13' title="bbox 92 1526 282 1557">
+    <p class='ocr_par' id='par_1_13' lang='eng' title="bbox 92 1526 282 1557">
+     <span class='ocr_line' id='line_1_13' title="bbox 92 1526 282 1557; baseline 0 -1; x_size 36.38298; x_descenders 5.3829789; x_ascenders 8">
+      <span class='ocrx_word' id='word_1_20' title='bbox 92 1526 282 1557; x_wconf 96'>Wisconsin</span>
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_14' title="bbox 92 1653 263 1692">
+    <p class='ocr_par' id='par_1_14' lang='eng' title="bbox 92 1653 263 1692">
+     <span class='ocr_line' id='line_1_14' title="bbox 92 1653 263 1692; baseline 0 -9; x_size 39; x_descenders 9; x_ascenders 7">
+      <span class='ocrx_word' id='word_1_21' title='bbox 92 1653 263 1692; x_wconf 96'>Wyoming</span>
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_15' title="bbox 0 0 1080 1920">
+    <p class='ocr_par' id='par_1_15' lang='eng' title="bbox 0 0 1080 1920">
+     <span class='ocr_line' id='line_1_15' title="bbox 0 0 1080 1920; baseline 0 0; x_size 961; x_descenders -480.5; x_ascenders 480.5">
+      <span class='ocrx_word' id='word_1_22' title='bbox 0 0 1080 1920; x_wconf 95'> </span>
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

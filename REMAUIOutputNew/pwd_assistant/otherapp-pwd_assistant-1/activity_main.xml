@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingLeft="0dp"
+    android:paddingRight="0dp"
+    android:paddingTop="0dp"
+    android:paddingBottom="0dp"
+    tools:context=".MainActivity"
+android:background="#FFF5F5F5">
+
+
+    <ImageView
+        android:src="@drawable/img_611_1875_43_23"
+        android:layout_marginLeft="611px"
+        android:layout_marginTop="1875px"
+        android:layout_width="43px"
+        android:layout_height="23px"/>
+
+    <ImageView
+        android:src="@drawable/img_669_1874_94_24"
+        android:layout_marginLeft="669px"
+        android:layout_marginTop="1874px"
+        android:layout_width="94px"
+        android:layout_height="24px"/>
+
+    <ImageView
+        android:src="@drawable/img_482_1874_114_25"
+        android:layout_marginLeft="482px"
+        android:layout_marginTop="1874px"
+        android:layout_width="114px"
+        android:layout_height="25px"/>
+
+    <ImageView
+        android:src="@drawable/img_159_1874_308_25"
+        android:layout_marginLeft="159px"
+        android:layout_marginTop="1874px"
+        android:layout_width="308px"
+        android:layout_height="25px"/>
+
+    <ImageView
+        android:src="@drawable/img_235_401_609_69"
+        android:layout_marginLeft="235px"
+        android:layout_marginTop="401px"
+        android:layout_width="609px"
+        android:layout_height="69px"/>
+
+    <RelativeLayout
+        android:background="#FFFBFBFB"
+        android:layout_marginLeft="234px"
+        android:layout_marginTop="292px"
+        android:layout_width="611px"
+        android:layout_height="95px">
+
+        <ImageView
+            android:src="@drawable/img_245_324_589_52"
+            android:layout_marginLeft="11px"
+            android:layout_marginTop="32px"
+            android:layout_width="589px"
+            android:layout_height="52px"/>
+    </RelativeLayout>
+
+    <ImageView
+        android:src="@drawable/img_481_182_67_31"
+        android:layout_marginLeft="481px"
+        android:layout_marginTop="182px"
+        android:layout_width="67px"
+        android:layout_height="31px"/>
+
+    <ImageView
+        android:src="@drawable/img_550_172_129_42"
+        android:layout_marginLeft="550px"
+        android:layout_marginTop="172px"
+        android:layout_width="129px"
+        android:layout_height="42px"/>
+
+    <ImageView
+        android:src="@drawable/img_424_58_232_37"
+        android:layout_marginLeft="424px"
+        android:layout_marginTop="58px"
+        android:layout_width="232px"
+        android:layout_height="37px"/>
+
+    <ImageView
+        android:src="@drawable/img_14_8_30_20"
+        android:layout_marginLeft="14px"
+        android:layout_marginTop="8px"
+        android:layout_width="30px"
+        android:layout_height="20px"/>
+
+    <ImageView
+        android:src="@drawable/img_0_1_1080_39"
+        android:layout_marginLeft="0px"
+        android:layout_marginTop="1px"
+        android:layout_width="1080px"
+        android:layout_height="39px"/>
+
+    <TextView
+        android:text="Reset your password"
+        android:textColor="#FF000000"
+        android:textSize="20px"        android:layout_marginLeft="405px"
+        android:layout_marginTop="177px"
+        android:layout_width="270px"
+        android:layout_height="25px"/>
+
+    <TextView
+        android:text="Enter the email you use for your Times account."
+        android:textColor="#FF000000"
+        android:textSize="13px"        android:layout_marginLeft="297px"
+        android:layout_marginTop="245px"
+        android:layout_width="486px"
+        android:layout_height="18px"/>
+
+    <TextView
+        android:text="California Notices"
+        android:textColor="#FFAEAEAE"
+        android:textSize="7px"        android:layout_marginLeft="783px"
+        android:layout_marginTop="1879px"
+        android:layout_width="133px"
+        android:layout_height="12px"/>
+</RelativeLayout>

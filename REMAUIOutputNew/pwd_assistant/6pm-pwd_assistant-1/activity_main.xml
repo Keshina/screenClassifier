@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingLeft="0dp"
+    android:paddingRight="0dp"
+    android:paddingTop="0dp"
+    android:paddingBottom="0dp"
+    tools:context=".MainActivity"
+android:background="#FFEFEBEB">
+
+
+    <ImageView
+        android:src="@drawable/img_17_1148_1046_98"
+        android:layout_marginLeft="17px"
+        android:layout_marginTop="1148px"
+        android:layout_width="1046px"
+        android:layout_height="98px"/>
+
+    <RelativeLayout
+        android:background="#FFD8D8D8"
+        android:layout_marginLeft="237px"
+        android:layout_marginTop="900px"
+        android:layout_width="599px"
+        android:layout_height="62px">
+
+        <ImageView
+            android:src="@drawable/img_370_916_416_31"
+            android:layout_marginLeft="133px"
+            android:layout_marginTop="16px"
+            android:layout_width="416px"
+            android:layout_height="31px"/>
+    </RelativeLayout>
+
+    <ImageView
+        android:src="@drawable/img_235_744_609_83"
+        android:layout_marginLeft="235px"
+        android:layout_marginTop="744px"
+        android:layout_width="609px"
+        android:layout_height="83px"/>
+
+    <ImageView
+        android:src="@drawable/img_234_325_612_405"
+        android:layout_marginLeft="234px"
+        android:layout_marginTop="325px"
+        android:layout_width="612px"
+        android:layout_height="405px"/>
+
+    <RelativeLayout
+        android:background="#FFF8F8F8"
+        android:layout_marginLeft="234px"
+        android:layout_marginTop="235px"
+        android:layout_width="612px"
+        android:layout_height="82px">
+
+        <ImageView
+            android:src="@drawable/img_245_246_590_60"
+            android:layout_marginLeft="11px"
+            android:layout_marginTop="11px"
+            android:layout_width="590px"
+            android:layout_height="60px"/>
+    </RelativeLayout>
+
+    <ImageView
+        android:src="@drawable/img_463_50_154_98"
+        android:layout_marginLeft="463px"
+        android:layout_marginTop="50px"
+        android:layout_width="154px"
+        android:layout_height="98px"/>
+
+    <ImageView
+        android:src="@drawable/img_14_8_30_20"
+        android:layout_marginLeft="14px"
+        android:layout_marginTop="8px"
+        android:layout_width="30px"
+        android:layout_height="20px"/>
+
+    <ImageView
+        android:src="@drawable/img_0_1_1080_39"
+        android:layout_marginLeft="0px"
+        android:layout_marginTop="1px"
+        android:layout_width="1080px"
+        android:layout_height="39px"/>
+
+    <TextView
+        android:text="Password assistance"
+        android:textColor="#FF000000"
+        android:textSize="23px"        android:layout_marginLeft="242px"
+        android:layout_marginTop="189px"
+        android:layout_width="340px"
+        android:layout_height="28px"/>
+
+    <TextView
+        android:text="Has your email address changed?"
+        android:textColor="#FF414141"
+        android:textSize="16px"        android:layout_marginLeft="242px"
+        android:layout_marginTop="865px"
+        android:layout_width="407px"
+        android:layout_height="21px"/>
+
+    <TextView
+        android:text="contacting Customer Service."
+        android:textColor="#FF000000"
+        android:textSize="16px"        android:layout_marginLeft="241px"
+        android:layout_marginTop="966px"
+        android:layout_width="292px"
+        android:layout_height="21px"/>
+
+    <TextView
+        android:text="Terms of Use"
+        android:textColor="#FF8D8D8D"
+        android:textSize="12px"        android:layout_marginLeft="384px"
+        android:layout_marginTop="1113px"
+        android:layout_width="132px"
+        android:layout_height="17px"/>
+
+    <TextView
+        android:text="Privacy Policy"
+        android:textColor="#FF747474"
+        android:textSize="16px"        android:layout_marginLeft="559px"
+        android:layout_marginTop="1113px"
+        android:layout_width="143px"
+        android:layout_height="21px"/>
+</RelativeLayout>

@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingLeft="0dp"
+    android:paddingRight="0dp"
+    android:paddingTop="0dp"
+    android:paddingBottom="0dp"
+    tools:context=".MainActivity"
+android:background="#FFE3E9F2">
+
+
+    <ImageView
+        android:src="@drawable/img_763_1058_73_62"
+        android:layout_marginLeft="763px"
+        android:layout_marginTop="1058px"
+        android:layout_width="73px"
+        android:layout_height="62px"/>
+
+    <ImageView
+        android:src="@drawable/img_754_1004_92_54"
+        android:layout_marginLeft="754px"
+        android:layout_marginTop="1004px"
+        android:layout_width="92px"
+        android:layout_height="54px"/>
+
+    <ImageView
+        android:src="@drawable/img_205_1004_152_82"
+        android:layout_marginLeft="205px"
+        android:layout_marginTop="1004px"
+        android:layout_width="152px"
+        android:layout_height="82px"/>
+
+    <ImageView
+        android:src="@drawable/img_223_602_635_64"
+        android:layout_marginLeft="223px"
+        android:layout_marginTop="602px"
+        android:layout_width="635px"
+        android:layout_height="64px"/>
+
+    <RelativeLayout
+        android:background="#FFFAFAFB"
+        android:layout_marginLeft="224px"
+        android:layout_marginTop="454px"
+        android:layout_width="633px"
+        android:layout_height="139px">
+
+        <ImageView
+            android:src="@drawable/img_232_527_617_58"
+            android:layout_marginLeft="8px"
+            android:layout_marginTop="73px"
+            android:layout_width="617px"
+            android:layout_height="58px"/>
+
+        <RelativeLayout
+            android:background="#FFFBFBFB"
+            android:layout_marginLeft="8px"
+            android:layout_marginTop="8px"
+            android:layout_width="617px"
+            android:layout_height="55px">
+
+            <ImageView
+                android:src="@drawable/img_243_475_228_25"
+                android:layout_marginLeft="11px"
+                android:layout_marginTop="13px"
+                android:layout_width="228px"
+                android:layout_height="25px"/>
+        </RelativeLayout>
+    </RelativeLayout>
+
+    <ImageView
+        android:src="@drawable/img_491_250_98_98"
+        android:layout_marginLeft="491px"
+        android:layout_marginTop="250px"
+        android:layout_width="98px"
+        android:layout_height="98px"/>
+
+    <ImageView
+        android:src="@drawable/img_0_192_1080_9"
+        android:layout_marginLeft="0px"
+        android:layout_marginTop="192px"
+        android:layout_width="1080px"
+        android:layout_height="9px"/>
+
+    <ImageView
+        android:src="@drawable/img_460_144_160_39"
+        android:layout_marginLeft="460px"
+        android:layout_marginTop="144px"
+        android:layout_width="160px"
+        android:layout_height="39px"/>
+
+    <ImageView
+        android:src="@drawable/img_0_127_1080_9"
+        android:layout_marginLeft="0px"
+        android:layout_marginTop="127px"
+        android:layout_width="1080px"
+        android:layout_height="9px"/>
+
+    <ImageView
+        android:src="@drawable/img_128_72_143_24"
+        android:layout_marginLeft="128px"
+        android:layout_marginTop="72px"
+        android:layout_width="143px"
+        android:layout_height="24px"/>
+
+    <ImageView
+        android:src="@drawable/img_1039_68_14_32"
+        android:layout_marginLeft="1039px"
+        android:layout_marginTop="68px"
+        android:layout_width="14px"
+        android:layout_height="32px"/>
+
+    <ImageView
+        android:src="@drawable/img_89_68_25_30"
+        android:layout_marginLeft="89px"
+        android:layout_marginTop="68px"
+        android:layout_width="25px"
+        android:layout_height="30px"/>
+
+    <ImageView
+        android:src="@drawable/img_1023_6_48_25"
+        android:layout_marginLeft="1023px"
+        android:layout_marginTop="6px"
+        android:layout_width="48px"
+        android:layout_height="25px"/>
+
+    <ImageView
+        android:src="@drawable/img_12_1_34_34"
+        android:layout_marginLeft="12px"
+        android:layout_marginTop="1px"
+        android:layout_width="34px"
+        android:layout_height="34px"/>
+
+    <TextView
+        android:text="x"
+        android:textColor="#FF828486"
+        android:textSize="15px"        android:layout_marginLeft="26px"
+        android:layout_marginTop="74px"
+        android:layout_width="20px"
+        android:layout_height="20px"/>
+
+    <TextView
+        android:text="Log into your Facebook account to connect to"
+        android:textColor="#ffffff"
+        android:textSize="17px"        android:layout_marginLeft="299px"
+        android:layout_marginTop="375px"
+        android:layout_width="483px"
+        android:layout_height="22px"/>
+
+    <TextView
+        android:text="The Guardian"
+        android:textColor="#ffffff"
+        android:textSize="13px"        android:layout_marginLeft="469px"
+        android:layout_marginTop="403px"
+        android:layout_width="141px"
+        android:layout_height="18px"/>
+
+    <TextView
+        android:text="Forgot password?"
+        android:textColor="#ffffff"
+        android:textSize="14px"        android:layout_marginLeft="458px"
+        android:layout_marginTop="684px"
+        android:layout_width="165px"
+        android:layout_height="19px"/>
+
+    <TextView
+        android:text="Create Account"
+        android:textColor="#ffffff"
+        android:textSize="10px"        android:layout_marginLeft="469px"
+        android:layout_marginTop="759px"
+        android:layout_width="142px"
+        android:layout_height="15px"/>
+
+    <TextView
+        android:text="Not now"
+        android:textColor="#ffffff"
+        android:textSize="10px"        android:layout_marginLeft="503px"
+        android:layout_marginTop="807px"
+        android:layout_width="76px"
+        android:layout_height="15px"/>
+
+    <TextView
+        android:text="Help Center"
+        android:textColor="#ffffff"
+        android:textSize="14px"        android:layout_marginLeft="487px"
+        android:layout_marginTop="852px"
+        android:layout_width="107px"
+        android:layout_height="19px"/>
+
+    <TextView
+        android:text="Italiano"
+        android:textColor="#ffffff"
+        android:textSize="9px"        android:layout_marginLeft="252px"
+        android:layout_marginTop="1090px"
+        android:layout_width="57px"
+        android:layout_height="14px"/>
+
+    <TextView
+        android:text="Facebook Inc."
+        android:textColor="#ffffff"
+        android:textSize="9px"        android:layout_marginLeft="486px"
+        android:layout_marginTop="1129px"
+        android:layout_width="108px"
+        android:layout_height="14px"/>
+</RelativeLayout>

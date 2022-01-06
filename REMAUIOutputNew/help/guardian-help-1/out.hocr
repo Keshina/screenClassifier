@@ -1,0 +1,229 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title></title>
+  <meta http-equiv="Content-Type" content="text/html;charset=utf-8"/>
+  <meta name='ocr-system' content='tesseract 4.1.1' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word ocrp_wconf'/>
+ </head>
+ <body>
+  <div class='ocr_page' id='page_1' title='image "/Users/kesina/Downloads/Screen_AugmentedTrainingData/help/guardian-help-1.png"; bbox 0 0 1080 1920; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 15 9 1068 190">
+    <p class='ocr_par' id='par_1_1' lang='eng' title="bbox 15 9 1068 190">
+     <span class='ocr_line' id='line_1_1' title="bbox 25 9 1057 54; baseline 0.017 -26; x_size 39; x_descenders 7; x_ascenders 13">
+      <span class='ocrx_word' id='word_1_1' title='bbox 25 9 319 54; x_wconf 0'>BABAA</span>
+      <span class='ocrx_word' id='word_1_2' title='bbox 823 14 855 50; x_wconf 17'>@</span>
+      <span class='ocrx_word' id='word_1_3' title='bbox 877 13 1057 49; x_wconf 86'>&quot;4</span>
+      <span class='ocrx_word' id='word_1_4' title='bbox 967 13 1057 50; x_wconf 96'>2:40</span>
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 635 87 1068 141; baseline 0.021 -8; x_size 26.556292; x_descenders 6; x_ascenders 8.5562916">
+      <span class='ocrx_word' id='word_1_5' title='bbox 635 128 640 133; x_wconf 64'>.</span>
+      <span class='ocrx_word' id='word_1_6' title='bbox 733 89 773 141; x_wconf 0'>(y</span>
+      <span class='ocrx_word' id='word_1_7' title='bbox 775 87 795 89; x_wconf 0'>,</span>
+      <span class='ocrx_word' id='word_1_8' title='bbox 849 87 952 141; x_wconf 7'>(-»</span>
+      <span class='ocrx_word' id='word_1_9' title='bbox 965 87 1068 141; x_wconf 0'>(&gt;</span>
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 15 90 1067 190; baseline 0.001 -3; x_size 104; x_descenders 27; x_ascenders 32">
+      <span class='ocrx_word' id='word_1_10' title='bbox 15 90 110 187; x_wconf 74'>©</span>
+      <span class='ocrx_word' id='word_1_11' title='bbox 734 112 951 190; x_wconf 35'>BIS)</span>
+      <span class='ocrx_word' id='word_1_12' title='bbox 966 112 1067 190; x_wconf 46'>WD</span>
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 33 241 880 392">
+    <p class='ocr_par' id='par_1_2' lang='eng' title="bbox 33 241 880 392">
+     <span class='ocr_line' id='line_1_4' title="bbox 34 241 880 314; baseline -0.001 -14; x_size 72; x_descenders 14; x_ascenders 18">
+      <span class='ocrx_word' id='word_1_13' title='bbox 34 242 343 300; x_wconf 96'>Guardian</span>
+      <span class='ocrx_word' id='word_1_14' title='bbox 358 260 480 314; x_wconf 96'>app</span>
+      <span class='ocrx_word' id='word_1_15' title='bbox 496 241 591 300; x_wconf 96'>for</span>
+      <span class='ocrx_word' id='word_1_16' title='bbox 605 242 880 300; x_wconf 95'>Android</span>
+     </span>
+     <span class='ocr_line' id='line_1_5' title="bbox 33 330 211 392; baseline 0.006 -9; x_size 68.282997; x_descenders 14.283; x_ascenders 14">
+      <span class='ocrx_word' id='word_1_17' title='bbox 33 330 211 392; x_wconf 96'>FAQs</span>
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 33 501 844 597">
+    <p class='ocr_par' id='par_1_3' lang='eng' title="bbox 33 501 844 597">
+     <span class='ocr_line' id='line_1_6' title="bbox 33 501 844 544; baseline 0 -9; x_size 42; x_descenders 9; x_ascenders 10">
+      <span class='ocrx_word' id='word_1_18' title='bbox 33 502 205 535; x_wconf 91'>Couldn’t</span>
+      <span class='ocrx_word' id='word_1_19' title='bbox 216 502 296 535; x_wconf 96'>find</span>
+      <span class='ocrx_word' id='word_1_20' title='bbox 307 502 406 535; x_wconf 96'>what</span>
+      <span class='ocrx_word' id='word_1_21' title='bbox 417 512 492 544; x_wconf 96'>you</span>
+      <span class='ocrx_word' id='word_1_22' title='bbox 503 512 599 535; x_wconf 96'>were</span>
+      <span class='ocrx_word' id='word_1_23' title='bbox 611 501 760 544; x_wconf 96'>looking</span>
+      <span class='ocrx_word' id='word_1_24' title='bbox 771 502 844 535; x_wconf 96'>for?</span>
+     </span>
+     <span class='ocr_line' id='line_1_7' title="bbox 33 554 678 597; baseline 0 -9; x_size 42; x_descenders 9; x_ascenders 10">
+      <span class='ocrx_word' id='word_1_25' title='bbox 33 554 130 588; x_wconf 96'>Click</span>
+      <span class='ocrx_word' id='word_1_26' title='bbox 141 555 228 588; x_wconf 96'>here</span>
+      <span class='ocrx_word' id='word_1_27' title='bbox 239 560 279 588; x_wconf 96'>to</span>
+      <span class='ocrx_word' id='word_1_28' title='bbox 291 565 414 588; x_wconf 95'>access</span>
+      <span class='ocrx_word' id='word_1_29' title='bbox 427 565 493 588; x_wconf 95'>our</span>
+      <span class='ocrx_word' id='word_1_30' title='bbox 505 555 597 597; x_wconf 94'>Help</span>
+      <span class='ocrx_word' id='word_1_31' title='bbox 609 556 678 588; x_wconf 95'>site</span>
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 34 665 424 696">
+    <p class='ocr_par' id='par_1_4' lang='eng' title="bbox 34 665 424 696">
+     <span class='ocr_line' id='line_1_8' title="bbox 34 665 424 696; baseline 0 -6; x_size 30; x_descenders 5; x_ascenders 6">
+      <span class='ocrx_word' id='word_1_32' title='bbox 34 665 120 690; x_wconf 96'>09:32</span>
+      <span class='ocrx_word' id='word_1_33' title='bbox 133 665 185 690; x_wconf 96'>Tue</span>
+      <span class='ocrx_word' id='word_1_34' title='bbox 196 665 298 696; x_wconf 96'>August</span>
+      <span class='ocrx_word' id='word_1_35' title='bbox 310 665 335 695; x_wconf 96'>9,</span>
+      <span class='ocrx_word' id='word_1_36' title='bbox 349 665 424 690; x_wconf 96'>2011</span>
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 32 724 1050 728">
+    <p class='ocr_par' id='par_1_5' lang='eng' title="bbox 32 724 1050 728">
+     <span class='ocr_line' id='line_1_9' title="bbox 32 724 1050 728; baseline 0 0; x_size 2; x_descenders -1; x_ascenders 1">
+      <span class='ocrx_word' id='word_1_37' title='bbox 32 724 1050 728; x_wconf 95'> </span>
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_6' title="bbox 59 802 237 832">
+    <p class='ocr_par' id='par_1_6' lang='eng' title="bbox 59 802 237 832">
+     <span class='ocr_line' id='line_1_10' title="bbox 59 802 237 832; baseline 0 0; x_size 35.38298; x_descenders 5.3829789; x_ascenders 7">
+      <span class='ocrx_word' id='word_1_38' title='bbox 59 802 237 832; x_wconf 96'>Contents</span>
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_7' title="bbox 58 891 661 1194">
+    <p class='ocr_par' id='par_1_7' lang='eng' title="bbox 60 891 342 928">
+     <span class='ocr_line' id='line_1_11' title="bbox 60 891 342 928; baseline 0 -9; x_size 37; x_descenders 9; x_ascenders 8">
+      <span class='ocrx_word' id='word_1_39' title='bbox 60 893 85 919; x_wconf 95'>1.</span>
+      <span class='ocrx_word' id='word_1_40' title='bbox 97 891 202 919; x_wconf 96'>About</span>
+      <span class='ocrx_word' id='word_1_41' title='bbox 213 891 267 919; x_wconf 96'>the</span>
+      <span class='ocrx_word' id='word_1_42' title='bbox 280 899 342 928; x_wconf 96'>app</span>
+     </span>
+    </p>
+
+    <p class='ocr_par' id='par_1_8' lang='eng' title="bbox 60 946 661 1038">
+     <span class='ocr_line' id='line_1_12' title="bbox 60 946 661 983; baseline 0 -9; x_size 37; x_descenders 9; x_ascenders 8">
+      <span class='ocrx_word' id='word_1_43' title='bbox 60 948 85 974; x_wconf 96'>2.</span>
+      <span class='ocrx_word' id='word_1_44' title='bbox 98 946 228 983; x_wconf 96'>Making</span>
+      <span class='ocrx_word' id='word_1_45' title='bbox 239 954 321 983; x_wconf 96'>your</span>
+      <span class='ocrx_word' id='word_1_46' title='bbox 332 954 394 983; x_wconf 95'>app</span>
+      <span class='ocrx_word' id='word_1_47' title='bbox 407 954 497 974; x_wconf 95'>more</span>
+      <span class='ocrx_word' id='word_1_48' title='bbox 509 946 661 983; x_wconf 96'>personal</span>
+     </span>
+     <span class='ocr_line' id='line_1_13' title="bbox 60 1001 334 1038; baseline 0 -9; x_size 37; x_descenders 9; x_ascenders 8">
+      <span class='ocrx_word' id='word_1_49' title='bbox 60 1003 85 1029; x_wconf 96'>3.</span>
+      <span class='ocrx_word' id='word_1_50' title='bbox 99 1001 334 1038; x_wconf 96'>Subscriptions</span>
+     </span>
+    </p>
+
+    <p class='ocr_par' id='par_1_9' lang='eng' title="bbox 58 1056 524 1093">
+     <span class='ocr_line' id='line_1_14' title="bbox 58 1056 524 1093; baseline 0 -9; x_size 37; x_descenders 9; x_ascenders 8">
+      <span class='ocrx_word' id='word_1_51' title='bbox 58 1058 85 1084; x_wconf 95'>4.</span>
+      <span class='ocrx_word' id='word_1_52' title='bbox 99 1056 216 1084; x_wconf 96'>Offline</span>
+      <span class='ocrx_word' id='word_1_53' title='bbox 229 1056 362 1093; x_wconf 96'>reading</span>
+      <span class='ocrx_word' id='word_1_54' title='bbox 374 1056 439 1084; x_wconf 95'>and</span>
+      <span class='ocrx_word' id='word_1_55' title='bbox 451 1056 524 1084; x_wconf 96'>data</span>
+     </span>
+    </p>
+
+    <p class='ocr_par' id='par_1_10' lang='eng' title="bbox 60 1111 401 1139">
+     <span class='ocr_line' id='line_1_15' title="bbox 60 1111 401 1139; baseline 0 0; x_size 37.101997; x_descenders 9.1019955; x_ascenders 8">
+      <span class='ocrx_word' id='word_1_56' title='bbox 60 1113 85 1139; x_wconf 96'>5.</span>
+      <span class='ocrx_word' id='word_1_57' title='bbox 99 1113 265 1139; x_wconf 95'>Customer</span>
+      <span class='ocrx_word' id='word_1_58' title='bbox 277 1111 401 1139; x_wconf 95'>Service</span>
+     </span>
+    </p>
+
+    <p class='ocr_par' id='par_1_11' lang='eng' title="bbox 60 1166 263 1194">
+     <span class='ocr_line' id='line_1_16' title="bbox 60 1166 263 1194; baseline 0 0; x_size 37.101997; x_descenders 9.1019955; x_ascenders 8">
+      <span class='ocrx_word' id='word_1_59' title='bbox 60 1168 85 1194; x_wconf 96'>6.</span>
+      <span class='ocrx_word' id='word_1_60' title='bbox 98 1166 263 1194; x_wconf 96'>Feedback</span>
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_8' title="bbox 32 1269 751 1374">
+    <p class='ocr_par' id='par_1_12' lang='eng' title="bbox 32 1269 751 1374">
+     <span class='ocr_line' id='line_1_17' title="bbox 32 1269 308 1311; baseline 0 -9; x_size 42; x_descenders 9; x_ascenders 10">
+      <span class='ocrx_word' id='word_1_61' title='bbox 32 1269 153 1302; x_wconf 95'>About</span>
+      <span class='ocrx_word' id='word_1_62' title='bbox 162 1269 226 1302; x_wconf 95'>the</span>
+      <span class='ocrx_word' id='word_1_63' title='bbox 236 1279 308 1311; x_wconf 96'>app</span>
+     </span>
+     <span class='ocr_line' id='line_1_18' title="bbox 32 1331 751 1374; baseline 0 -9; x_size 42; x_descenders 9; x_ascenders 10">
+      <span class='ocrx_word' id='word_1_64' title='bbox 32 1332 138 1365; x_wconf 96'>What</span>
+      <span class='ocrx_word' id='word_1_65' title='bbox 150 1332 297 1365; x_wconf 96'>devices</span>
+      <span class='ocrx_word' id='word_1_66' title='bbox 310 1332 400 1365; x_wconf 96'>does</span>
+      <span class='ocrx_word' id='word_1_67' title='bbox 412 1332 475 1365; x_wconf 96'>the</span>
+      <span class='ocrx_word' id='word_1_68' title='bbox 488 1342 559 1374; x_wconf 96'>app</span>
+      <span class='ocrx_word' id='word_1_69' title='bbox 571 1331 672 1365; x_wconf 96'>work</span>
+      <span class='ocrx_word' id='word_1_70' title='bbox 683 1335 751 1365; x_wconf 96'>on?</span>
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_9' title="bbox 33 1425 968 1531">
+    <p class='ocr_par' id='par_1_13' lang='eng' title="bbox 33 1425 968 1531">
+     <span class='ocr_line' id='line_1_19' title="bbox 33 1425 968 1468; baseline 0 -9; x_size 42; x_descenders 9; x_ascenders 10">
+      <span class='ocrx_word' id='word_1_71' title='bbox 33 1426 106 1459; x_wconf 96'>The</span>
+      <span class='ocrx_word' id='word_1_72' title='bbox 120 1426 301 1459; x_wconf 95'>Guardian</span>
+      <span class='ocrx_word' id='word_1_73' title='bbox 314 1436 384 1468; x_wconf 96'>app</span>
+      <span class='ocrx_word' id='word_1_74' title='bbox 397 1425 515 1459; x_wconf 96'>works</span>
+      <span class='ocrx_word' id='word_1_75' title='bbox 529 1436 578 1459; x_wconf 96'>on</span>
+      <span class='ocrx_word' id='word_1_76' title='bbox 590 1426 635 1459; x_wconf 96'>all</span>
+      <span class='ocrx_word' id='word_1_77' title='bbox 647 1426 809 1459; x_wconf 96'>Android</span>
+      <span class='ocrx_word' id='word_1_78' title='bbox 822 1426 968 1459; x_wconf 96'>devices</span>
+     </span>
+     <span class='ocr_line' id='line_1_20' title="bbox 33 1489 594 1531; baseline 0 -9; x_size 42; x_descenders 9; x_ascenders 10">
+      <span class='ocrx_word' id='word_1_79' title='bbox 33 1490 191 1531; x_wconf 96'>running</span>
+      <span class='ocrx_word' id='word_1_80' title='bbox 202 1489 364 1522; x_wconf 96'>Android</span>
+      <span class='ocrx_word' id='word_1_81' title='bbox 376 1496 435 1527; x_wconf 96'>5.0</span>
+      <span class='ocrx_word' id='word_1_82' title='bbox 448 1489 520 1522; x_wconf 96'>and</span>
+      <span class='ocrx_word' id='word_1_83' title='bbox 533 1499 594 1531; x_wconf 95'>up.</span>
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_10' title="bbox 32 1584 895 1626">
+    <p class='ocr_par' id='par_1_14' lang='eng' title="bbox 32 1584 895 1626">
+     <span class='ocr_line' id='line_1_21' title="bbox 32 1584 895 1626; baseline 0 -9; x_size 42; x_descenders 9; x_ascenders 10">
+      <span class='ocrx_word' id='word_1_84' title='bbox 32 1584 138 1617; x_wconf 96'>What</span>
+      <span class='ocrx_word' id='word_1_85' title='bbox 149 1585 389 1626; x_wconf 96'>permissions</span>
+      <span class='ocrx_word' id='word_1_86' title='bbox 401 1584 449 1617; x_wconf 96'>do</span>
+      <span class='ocrx_word' id='word_1_87' title='bbox 461 1594 535 1626; x_wconf 96'>you</span>
+      <span class='ocrx_word' id='word_1_88' title='bbox 547 1589 695 1626; x_wconf 96'>request</span>
+      <span class='ocrx_word' id='word_1_89' title='bbox 708 1584 780 1617; x_wconf 96'>and</span>
+      <span class='ocrx_word' id='word_1_90' title='bbox 792 1584 895 1626; x_wconf 96'>why?</span>
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_11' title="bbox 900 1622 1060 1778">
+    <p class='ocr_par' id='par_1_15' lang='eng' title="bbox 900 1622 1060 1778">
+     <span class='ocr_line' id='line_1_22' title="bbox 922 1622 1048 1656; baseline 0 0; x_size 22.666666; x_descenders 5.6666665; x_ascenders 5.666667">
+      <span class='ocrx_word' id='word_1_91' title='bbox 922 1622 1048 1656; x_wconf 95'>  </span>
+     </span>
+     <span class='ocr_line' id='line_1_23' title="bbox 900 1656 1060 1778; baseline 0 0; x_size 50; x_descenders 12.5; x_ascenders 12.5">
+      <span class='ocrx_word' id='word_1_92' title='bbox 900 1656 1060 1778; x_wconf 95'>  </span>
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_12' title="bbox 32 1677 900 1783">
+    <p class='ocr_par' id='par_1_16' lang='eng' title="bbox 32 1677 900 1783">
+     <span class='ocr_line' id='line_1_24' title="bbox 32 1677 900 1720; baseline 0 -9; x_size 43; x_descenders 9; x_ascenders 11">
+      <span class='ocrx_word' id='word_1_93' title='bbox 32 1681 109 1711; x_wconf 96'>You</span>
+      <span class='ocrx_word' id='word_1_94' title='bbox 123 1688 190 1711; x_wconf 95'>can</span>
+      <span class='ocrx_word' id='word_1_95' title='bbox 202 1677 281 1711; x_wconf 95'>find</span>
+      <span class='ocrx_word' id='word_1_96' title='bbox 293 1688 313 1711; x_wconf 95'>a</span>
+      <span class='ocrx_word' id='word_1_97' title='bbox 325 1677 391 1711; x_wconf 95'>full</span>
+      <span class='ocrx_word' id='word_1_98' title='bbox 403 1678 462 1711; x_wconf 96'>list</span>
+      <span class='ocrx_word' id='word_1_99' title='bbox 475 1677 516 1711; x_wconf 96'>of</span>
+      <span class='ocrx_word' id='word_1_100' title='bbox 524 1679 762 1720; x_wconf 96'>permissions</span>
+      <span class='ocrx_word' id='word_1_101' title='bbox 775 1678 854 1711; x_wconf 92'>that</span>
+      <span class='ocrx_word' id='word_1_102' title='bbox 866 1688 900 1711; x_wconf 84'>w</span>
+     </span>
+     <span class='ocr_line' id='line_1_25' title="bbox 33 1741 290 1783; baseline 0 -9; x_size 42; x_descenders 9; x_ascenders 10">
+      <span class='ocrx_word' id='word_1_103' title='bbox 33 1746 180 1783; x_wconf 96'>request</span>
+      <span class='ocrx_word' id='word_1_104' title='bbox 193 1741 290 1774; x_wconf 96'>here.</span>
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

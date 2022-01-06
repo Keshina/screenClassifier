@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingLeft="0dp"
+    android:paddingRight="0dp"
+    android:paddingTop="0dp"
+    android:paddingBottom="0dp"
+    tools:context=".MainActivity"
+android:background="#FFF2F2F2">
+
+
+    <ImageView
+        android:src="@drawable/img_0_1819_1080_9"
+        android:layout_marginLeft="0px"
+        android:layout_marginTop="1819px"
+        android:layout_width="1080px"
+        android:layout_height="9px"/>
+
+    <RelativeLayout
+        android:background="#FFFAFAFA"
+        android:layout_marginLeft="109px"
+        android:layout_marginTop="251px"
+        android:layout_width="862px"
+        android:layout_height="167px">
+
+        <RelativeLayout
+            android:background="#FFF5F5F5"
+            android:layout_marginLeft="650px"
+            android:layout_marginTop="96px"
+            android:layout_width="201px"
+            android:layout_height="60px">
+
+            <ImageView
+                android:src="@drawable/img_913_360_39_38"
+                android:layout_marginLeft="154px"
+                android:layout_marginTop="13px"
+                android:layout_width="39px"
+                android:layout_height="38px"/>
+
+            <TextView
+                android:text="Sendreset"
+                android:textColor="#ffffff"
+                android:textSize="13px"                android:layout_marginLeft="25px"
+                android:layout_marginTop="19px"
+                android:layout_width="113px"
+                android:layout_height="18px"/>
+        </RelativeLayout>
+
+        <ImageView
+            android:src="@drawable/img_120_262_840_67"
+            android:layout_marginLeft="11px"
+            android:layout_marginTop="11px"
+            android:layout_width="840px"
+            android:layout_height="67px"/>
+    </RelativeLayout>
+
+    <ImageView
+        android:src="@drawable/img_110_174_469_62"
+        android:layout_marginLeft="110px"
+        android:layout_marginTop="174px"
+        android:layout_width="469px"
+        android:layout_height="62px"/>
+
+    <ImageView
+        android:src="@drawable/img_0_140_1080_12"
+        android:layout_marginLeft="0px"
+        android:layout_marginTop="140px"
+        android:layout_width="1080px"
+        android:layout_height="12px"/>
+
+    <ImageView
+        android:src="@drawable/img_790_89_264_45"
+        android:layout_marginLeft="790px"
+        android:layout_marginTop="89px"
+        android:layout_width="264px"
+        android:layout_height="45px"/>
+
+    <ImageView
+        android:src="@drawable/img_14_8_30_20"
+        android:layout_marginLeft="14px"
+        android:layout_marginTop="8px"
+        android:layout_width="30px"
+        android:layout_height="20px"/>
+
+    <ImageView
+        android:src="@drawable/img_52_1_34_34"
+        android:layout_marginLeft="52px"
+        android:layout_marginTop="1px"
+        android:layout_width="34px"
+        android:layout_height="34px"/>
+
+    <TextView
+        android:text="6:12"
+        android:textColor="#ffffff"
+        android:textSize="10px"        android:layout_marginLeft="1027px"
+        android:layout_marginTop="11px"
+        android:layout_width="40px"
+        android:layout_height="15px"/>
+
+    <TextView
+        android:text="«)"
+        android:textColor="#FF000000"
+        android:textSize="71px"        android:layout_marginLeft="0px"
+        android:layout_marginTop="56px"
+        android:layout_width="72px"
+        android:layout_height="76px"/>
+
+    <TextView
+        android:text="Back to login"
+        android:textColor="#FFB9B9B9"
+        android:textSize="14px"        android:layout_marginLeft="26px"
+        android:layout_marginTop="1863px"
+        android:layout_width="136px"
+        android:layout_height="19px"/>
+</RelativeLayout>

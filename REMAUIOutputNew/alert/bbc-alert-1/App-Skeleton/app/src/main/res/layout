@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingLeft="0dp"
+    android:paddingRight="0dp"
+    android:paddingTop="0dp"
+    android:paddingBottom="0dp"
+    tools:context=".MainActivity"
+android:background="#FFF9EEEE">
+
+
+    <ImageView
+        android:src="@drawable/img_116_378_855_50"
+        android:layout_marginLeft="116px"
+        android:layout_marginTop="378px"
+        android:layout_width="855px"
+        android:layout_height="50px"/>
+
+    <ImageView
+        android:src="@drawable/img_1002_368_36_36"
+        android:layout_marginLeft="1002px"
+        android:layout_marginTop="368px"
+        android:layout_width="36px"
+        android:layout_height="36px"/>
+
+    <ImageView
+        android:src="@drawable/img_1002_246_36_36"
+        android:layout_marginLeft="1002px"
+        android:layout_marginTop="246px"
+        android:layout_width="36px"
+        android:layout_height="36px"/>
+
+    <ImageView
+        android:src="@drawable/img_117_170_196_30"
+        android:layout_marginLeft="117px"
+        android:layout_marginTop="170px"
+        android:layout_width="196px"
+        android:layout_height="30px"/>
+
+    <ImageView
+        android:src="@drawable/img_0_128_1080_9"
+        android:layout_marginLeft="0px"
+        android:layout_marginTop="128px"
+        android:layout_width="1080px"
+        android:layout_height="9px"/>
+
+    <ImageView
+        android:src="@drawable/img_118_68_73_32"
+        android:layout_marginLeft="118px"
+        android:layout_marginTop="68px"
+        android:layout_width="73px"
+        android:layout_height="32px"/>
+
+    <ImageView
+        android:src="@drawable/img_37_68_33_31"
+        android:layout_marginLeft="37px"
+        android:layout_marginTop="68px"
+        android:layout_width="33px"
+        android:layout_height="31px"/>
+
+    <ImageView
+        android:src="@drawable/img_14_8_30_20"
+        android:layout_marginLeft="14px"
+        android:layout_marginTop="8px"
+        android:layout_width="30px"
+        android:layout_height="20px"/>
+
+    <ImageView
+        android:src="@drawable/img_1011_6_60_25"
+        android:layout_marginLeft="1011px"
+        android:layout_marginTop="6px"
+        android:layout_width="60px"
+        android:layout_height="25px"/>
+
+    <ImageView
+        android:src="@drawable/img_53_4_31_28"
+        android:layout_marginLeft="53px"
+        android:layout_marginTop="4px"
+        android:layout_width="31px"
+        android:layout_height="28px"/>
+
+    <ImageView
+        android:src="@drawable/img_94_3_30_30"
+        android:layout_marginLeft="94px"
+        android:layout_marginTop="3px"
+        android:layout_width="30px"
+        android:layout_height="30px"/>
+
+    <ImageView
+        android:src="@drawable/img_132_1_34_34"
+        android:layout_marginLeft="132px"
+        android:layout_marginTop="1px"
+        android:layout_width="34px"
+        android:layout_height="34px"/>
+
+    <TextView
+        android:text="Notifications"
+        android:textColor="#FF000000"
+        android:textSize="15px"        android:layout_marginLeft="122px"
+        android:layout_marginTop="240px"
+        android:layout_width="135px"
+        android:layout_height="20px"/>
+
+    <TextView
+        android:text="Allow the BBC News app to send notifications directly to your device"
+        android:textColor="#ffffff"
+        android:textSize="16px"        android:layout_marginLeft="120px"
+        android:layout_marginTop="273px"
+        android:layout_width="635px"
+        android:layout_height="21px"/>
+
+    <TextView
+        android:text="Breaking news sound"
+        android:textColor="#FF000000"
+        android:textSize="18px"        android:layout_marginLeft="122px"
+        android:layout_marginTop="351px"
+        android:layout_width="223px"
+        android:layout_height="23px"/>
+</RelativeLayout>
