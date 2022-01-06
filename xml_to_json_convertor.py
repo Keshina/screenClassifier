@@ -47,6 +47,25 @@ def get_object(data_dict):
         return obj
 
 
+def convert_to_json_new_data(path,output_path):
+    try:
+        with open(path) as xml_file:
+            data_dict = dict(xmltodict.parse(xml_file.read()))
+        xml_file.close()
+        package_name = (path.split("/")[1]).split("-")[0]
+        json_dict = {"activity_name": package_name, "request_id": 3, "is_keyboard_deployed": False}
+        activity = {"added_fragments": ["1"], "active_fragments": ["1"]}
+        root = get_object(data_dict)
+        root["bounds"] =  [0,0,1440,2560]
+        activity["root"] = root
+        json_dict["activity"] = activity
+        output_path = output_path.split(".xml")[0]
+        with open(os.path.join(output_path+".json"), "w") as json_file:
+            json_file.write(json.dumps(json_dict))
+        json_file.close()
+    except Exception as e:
+        print("error",e)
+        pass
 def convert_to_json(path,output_path):
     try:
         with open(os.path.join(path,"activity_main.xml")) as xml_file:
